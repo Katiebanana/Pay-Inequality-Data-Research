@@ -5,6 +5,6 @@ The project is separated into 3 parts of comparison between genders: years of ex
 
 For each section, I identify the discrepancy in data, or the lack thereof, and explain its social causes and impact using peer-reviewed research.
 
-The analysis of specific job titles' correlation with higher pay can be found at https://payyup.wordpress.com/job-title/. I used pandas and matplotlib to aggregate and filter the top 5 and top 20 highest earning words in a job title and their gender distribution.
+The analysis of specific job titles' correlation with higher pay can be found at https://payyup.wordpress.com/job-title/. I used pandas and matplotlib to aggregate and filter the top 5 and top 20 highest earning words in a job title and the distribution of two genders (m/f) who owns these titles.
 
 Full reporting and analysis of this research could be found https://payyup.wordpress.com
